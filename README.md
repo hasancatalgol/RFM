@@ -1,6 +1,6 @@
 
 # RFM Model
-
+![Incontent_image](https://www.responsedga.com/wp-content/uploads/2021/02/Incontent_image.png)
 RFM is a classic Lifetime and Responsiveness segmentation model. It has been trialed and tested over the years and is a great starting point for any retailer including eCommerce companies looking to manage their customer base more proactively. 
 
 ```

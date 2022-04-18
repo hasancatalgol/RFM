@@ -26,7 +26,6 @@ numpy
 scipy
 statsmodels
 matplotlib
-
 ```
 
 ### Author

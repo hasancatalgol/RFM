@@ -26,12 +26,4 @@ matplotlib
 
 **Hasan Çatalgöl** -  [hasancatalgol](https://github.com/hasancatalgol)
 
----
 
-### Acknowledgments:
-
-```
-MIUUL
-VBO Data Science and Machine Learning Bootcamp and colleagues I worked with on a highly productive environment
-www.veribilimiokulu.com
-```
